@@ -1,2 +1,2 @@
-# Student-attendance-system--Qi-Lu
+# Student-attendance-system--Qi-Lu(Supervisor: Shirley Atkinson)
 This system is mainly for universities whose existing check-in system is unstable, has fewer functions and wants to view check-in information more easily. This Student attendance system is a data visualization management system that allows teachers to check the attendance of students in the form of graphs, and it also allows students to inform the teacher in advance whether they are attending the course through the system and check whether they are approved.
